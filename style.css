@@ -125,7 +125,7 @@ body {
     text-decoration: underline;
 }
 
-
+/* first section */
 
 .first-section {
     width: 80%;
@@ -168,10 +168,12 @@ body {
     text-decoration: underline;
 
 }
+/* rigth section */
 
 .right-section img {
-    width: 100%;
+    width: 300px;
     border-radius: 10px;
+    background-size: cover;
 
 }
 
