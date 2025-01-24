@@ -336,14 +336,14 @@ body {
     position: absolute;
     top: 20px;
     left: 20px;
-    height: 280px;
-    width: 320px;
+    height: 250px;
+    width: 250px;
     border-radius: 10px;
 }
 
 .container>#img-2 {
     position: absolute;
-    left: 260px;
+    left: 230px;
     top: 0px;
     height: 350px;
     width: 250px;
